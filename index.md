@@ -2,7 +2,8 @@
 title: *Stuff*
 ---
 
-- [What Are the "True" Statistics of the Environment?](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.12444)
+# Probability
+- [What Are the "True" Statistics of the Environment? (Feldman, 2016)](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cogs.12444)
 
 # To Read
 - [Computational Mechanics: Pattern and Prediction, Structure and Simplicity (Shalizi and Crutchfield, 2008)](https://arxiv.org/pdf/cond-mat/9907176.pdf)
