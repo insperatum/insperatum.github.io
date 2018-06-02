@@ -1,5 +1,6 @@
-- [General](general)
+# Topics
 - [Probability](probability)
+- [General](general)
 
 ---
 
