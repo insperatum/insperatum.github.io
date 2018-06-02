@@ -12,5 +12,5 @@ title: To Read
 
 ## From Matthias
 - Scientific perspectivism (Giere, 2006)
-  - Book: https://philpapers.org/rec/GIESP
-  - Review Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677569/
+  - [Book](https://philpapers.org/rec/GIESP)
+  - [Review Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677569)
