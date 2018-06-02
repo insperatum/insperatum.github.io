@@ -9,3 +9,8 @@ title: To Read
 - [Every Good Regulator of a System Must be a Model of that System (Conant and Ashby, 1970)](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf)
 - [Is Anything Ever New? Considering Emergence (Crutchfield, 1994)](http://csc.ucdavis.edu/~cmg/papers/EverNew.pdf)
 - [Computer Simulation of Human Thinking (Newell & Simon, 1961)](http://www.cogsci.ucsd.edu/~coulson/203/newell-simon.pdf)
+
+## From Matthias
+- Scientific perspectivism (Giere, 2006)
+  - Book: https://philpapers.org/rec/GIESP
+  - Review Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2677569/
