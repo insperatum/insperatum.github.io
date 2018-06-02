@@ -1,7 +1,5 @@
 ---
-title: General
 ---
 
-General
-=====
+# General
 - <http://bactra.org>
