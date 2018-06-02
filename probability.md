@@ -10,4 +10,4 @@ title: Probability
 ### PAC Bayes
 - Now the algorithm produces a distribution Q(g), and the loss is an expectation over Q.
 - The bound is constructed with respect to an arbitrary fixed 'prior' distribution P (it contains KL(Q||P))
-- But has nothing to do with bayes??
+- But has nothing to do with bayes?? I guess it has a prior-like term (it's smaller when Q is close to P) and a likelihood-like term (it's smaller when the empirical loss is small)?
