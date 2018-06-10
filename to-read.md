@@ -3,6 +3,7 @@ title: To Read
 ---
 # To Read
 - [Computer Simulation of Human Thinking (Newell & Simon, 1961)](http://www.cogsci.ucsd.edu/~coulson/203/newell-simon.pdf)
+- [Efficient coding explains the universal law of generalization in human perception (Sims, 2018)](http://science.sciencemag.org/content/360/6389/652/tab-pdf)
 
 ## From Maddie
 - [Is Anything Ever New? Considering Emergence (Crutchfield, 1994)](http://csc.ucdavis.edu/~cmg/papers/EverNew.pdf)
