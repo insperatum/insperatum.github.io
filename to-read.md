@@ -13,6 +13,9 @@ title: To Read
 - [Spring and Fall Fashions in Cognitive Science! (Pylyshyn)](http://ruccs.rutgers.edu/zenon/25-personal-sites/zenon-pylyshyn/291-spring-and-fall-fashions-in-cognitive-science)
 - [What is Cognitive Science? (Pylyshyn, 1998)](http://ruccs.rutgers.edu/images/personal-zenon-pylyshyn/proseminars/Proseminar13/WhatIsCogsci.pdf)
 - [How Close are we to Creating Artificial Intelligence? (Deutsch, 2012)](https://aeon.co/essays/how-close-are-we-to-creating-artificial-intelligence)
+- [Hesitant: https://en.wikipedia.org/wiki/Jaakko_Hintikka]
+- [What Uncertainties Do We Need in Bayesian Deep
+Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf)
 
 ## From Matthias
 - Scientific perspectivism (Giere, 2006)
