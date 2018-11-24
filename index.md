@@ -1,1 +1,6 @@
-# Okay
+---
+title: Index
+
+---
+
+- [Papers](papers)
