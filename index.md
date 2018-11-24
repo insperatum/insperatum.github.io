@@ -4,4 +4,3 @@ title: Index
 ---
 
 - [Papers](papers)
-
