@@ -1,0 +1,4 @@
+- [Computational Mechanics: Pattern and Prediction, Structure and Simplicity (Shalizi and Crutchfield, 2008)](https://arxiv.org/pdf/cond-mat/9907176.pdf)
+  - _I don't understand what this buys you. They want to define patterns 'without appealing to a priori assumptions', so they define 'causal states' - equivalence classes whose elements all make exactly the same future predictions. There's no notion of e.g. similarity between states._
+- [Every Good Regulator of a System Must be a Model of that System (Conant and Ashby, 1970)](http://pespmc1.vub.ac.be/books/Conant_Ashby.pdf)
+  - _Seems to just be saying 'A good regulator of a system should observe it, rather than acting randomly'... The goal of minimizing H(Z) seems unjustified, but even if it weren't, their claim seems to rest on the definition 'R is a model of S <==> R = h(S)' anyway. Which would be interesting if R didn't already take S as an input. A model is surely not the same as an observation._
