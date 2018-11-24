@@ -1,2 +1,4 @@
 theme: minima
 title: What the hell is going on?
+header_pages:
+  - papers
