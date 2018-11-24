@@ -1,7 +1,6 @@
 ---
 title: To Read
 ---
-# To Read
 - [Computer Simulation of Human Thinking (Newell & Simon, 1961)](http://www.cogsci.ucsd.edu/~coulson/203/newell-simon.pdf)
 - [Efficient coding explains the universal law of generalization in human perception (Sims, 2018)](http://science.sciencemag.org/content/360/6389/652/tab-pdf)
 - [Dynamics of Bayesian updating with dependent data and misspecified models (Shalizi, 2009)](https://projecteuclid.org/download/pdfview_1/euclid.ejs/1256822130)
