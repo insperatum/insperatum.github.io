@@ -1,10 +1,9 @@
 ---
-title: Reasons to be pessimistic...
+title: Economic shit
 ---
 
-Median hourly wage has hardly changed since 1979 [source](https://www.epi.org/files/pdf/why-americas-workers-need-faster-wage-growth.pdf)
+Median hourly wage since 1979 [source](https://www.epi.org/files/pdf/why-americas-workers-need-faster-wage-growth.pdf)
 
 | ![](pessimism.assets/image-20181124172230526.png) | ![](pessimism.assets/image-20181124172726707.png) | ![](pessimism.assets/image-20181124172810338.png) |
 | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 |                        All                        |                       Women                       |                        Men                        |
-
