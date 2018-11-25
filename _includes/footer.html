@@ -1,7 +1,7 @@
 <script src="/lightbox/js/lightbox-plus-jquery.min.js"></script>
 <script>
 images=$("img")
-images.each(function(this){
-this.wrap("<a />").parent().attr("data-lightbox", "image").attr("href", this.attr("src"))
+images.each(function(i,x){
+$(x).wrap("<a />").parent().attr("data-lightbox", "image").attr("href", $(x).attr("src"))
 })
 </script>
