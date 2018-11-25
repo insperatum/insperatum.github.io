@@ -1,1 +1,5 @@
 <script src="/lightbox/js/lightbox-plus-jquery.min.js"></script>
+<script>
+images=$("img")
+images.wrap("<a />").parent().attr("data-lightbox", "image").attr("href", images.attr("src"))
+</script>
