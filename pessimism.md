@@ -7,3 +7,4 @@ Median hourly wage since 1979 [source](https://www.epi.org/files/pdf/why-america
 | ![](pessimism.assets/image-20181124172230526.png) | ![](pessimism.assets/image-20181124172726707.png) | ![](pessimism.assets/image-20181124172810338.png) |
 | :-----------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------: |
 |                        All                        |                       Women                       |                        Men                        |
+
