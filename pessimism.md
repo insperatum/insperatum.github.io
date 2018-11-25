@@ -13,9 +13,8 @@ I'm thinking about
 ## Wages are stagnant
 
 | ![](pessimism.assets/image-20181124172230526.png) |      ![](pessimism.assets/image-20181124172726707.png)       | ![](pessimism.assets/image-20181124172810338.png) |
-| :-----------------------------------------------: | :----------------------------------------------------------: | :-----------------------------------------------: |
-|                        All                        |                            Women                             |                        Men                        |
-|                                                   | Median hourly wage since 1979 ([source](https://www.epi.org/files/pdf/why-americas-workers-need-faster-wage-growth.pdf)) |                                                   |
+| :-----------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------: |
+|                       *All*                       | *Women*<br />Median hourly wage since 1979 ([source](https://www.epi.org/files/pdf/why-americas-workers-need-faster-wage-growth.pdf)) |                                               Men |
 
 | ![image-20181125175044276](pessimism.assets/image-20181125175044276-3186244.png) |
 | -----------------------------------------------------------: |
