@@ -10,7 +10,7 @@ I'm thinking about
 - Propaganda
 - Autonomous weapons
 
-## Wages are stagnant
+## Wages are stagnant since the 70s
 
 | ![](pessimism.assets/image-20181124172230526.png) |      ![](pessimism.assets/image-20181124172726707.png)       | ![](pessimism.assets/image-20181124172810338.png) |
 | :-----------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------: |
@@ -18,7 +18,7 @@ I'm thinking about
 
 | ![image-20181125175044276](pessimism.assets/image-20181125175044276-3186244.png) |
 | -----------------------------------------------------------: |
-| ...but productivity is growing ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
+| ...but productivity has doubled ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
 
 ## Populism is on the rise
 
