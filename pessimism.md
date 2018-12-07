@@ -6,7 +6,7 @@
 
 | ![image-20181125175044276](pessimism.assets/image-20181125175044276-3186244.png) |
 | :----------------------------------------------------------: |
-| ...but productivity has doubled in that time ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
+| ...even though productivity has doubled in that time ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
 
 ## Populism is on the rise
 
