@@ -1,7 +1,3 @@
----
-title: The future isn't looking great...
----
-
 ## Wages have stagnated since the '70s
 
 | All<br />![](pessimism.assets/image-20181124172230526.png) | Women<br />![](pessimism.assets/image-20181124172726707.png) | Men<br />![](pessimism.assets/image-20181124172810338.png) |
@@ -22,7 +18,7 @@ title: The future isn't looking great...
 
 | ![image-20181207180208461](pessimism.assets/image-20181207180208461-4223728.png) | ![image-20181207180914179](pessimism.assets/image-20181207180914179-4224154.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2017 Twitter map for media sources ([Network Propaganda](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf)). Colours are quintiles for partisanship among readers (green=neutral). Nodes are linked when the same reader shares both sources. |         Histogram of twitter partisanship (2015-16)          |
+| 2017 Twitter map for media sources ([Network Propaganda](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf)). Colours are quintiles for partisanship among readers (green=neutral). Nodes are linked when the same reader shares both sources. | Histogram of twitter partisanship for top 250 media sources, 2015-16. |
 
 ## Nobody trusts the government
 
