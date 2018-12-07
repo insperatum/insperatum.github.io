@@ -1,3 +1,8 @@
+---
+title: Some reasons to feel pessimistic
+
+---
+
 ## Wages have stagnated since the '70s
 
 | All<br />![](pessimism.assets/image-20181124172230526.png) | Women<br />![](pessimism.assets/image-20181124172726707.png) | Men<br />![](pessimism.assets/image-20181124172810338.png) |
@@ -6,7 +11,7 @@
 
 | ![image-20181125175044276](pessimism.assets/image-20181125175044276-3186244.png) |
 | :----------------------------------------------------------: |
-| ...even though productivity has doubled in that time ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
+| ... productivity has doubled in that time ([source](https://fred.stlouisfed.org/series/OPHNFB)) |
 
 ## Populism is on the rise
 
