@@ -3,7 +3,7 @@ title: Some reasons to feel pessimistic
 
 ---
 
-## Wages have stagnated since the '70s
+## Wages have stagnated since the '80s
 
 | All<br />![](pessimism.assets/image-20181124172230526.png) | Women<br />![](pessimism.assets/image-20181124172726707.png) | Men<br />![](pessimism.assets/image-20181124172810338.png) |
 | :--------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
