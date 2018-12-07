@@ -2,14 +2,6 @@
 title: The future isn't looking great...
 ---
 
-I'm thinking about
-
-- Automation and Job Losses
-- Power centralisation
-- Surveillance
-- Propaganda
-- Autonomous weapons
-
 ## Wages have stagnated since the '70s
 
 | All<br />![](pessimism.assets/image-20181124172230526.png) | Women<br />![](pessimism.assets/image-20181124172726707.png) | Men<br />![](pessimism.assets/image-20181124172810338.png) |
@@ -25,4 +17,16 @@ I'm thinking about
 | ![image-20181125174048357](pessimism.assets/image-20181125174048357-3185648.png) |
 | :----------------------------------------------------------: |
 | European populism since 1998 ([source](https://www.theguardian.com/world/ng-interactive/2018/nov/20/revealed-one-in-four-europeans-vote-populist)) |
+
+## The far-right media is a filter bubble
+
+| ![image-20181207180208461](pessimism.assets/image-20181207180208461-4223728.png) | ![image-20181207180914179](pessimism.assets/image-20181207180914179-4224154.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2017 Twitter map for media sources ([Network Propaganda](http://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780190923624.pdf)). Colours are quintiles for partisanship among readers (green=neutral). Nodes are linked when the same reader shares both sources. |         Histogram of twitter partisanship (2015-16)          |
+
+## Nobody trusts the government
+
+| ![img](pessimism.assets/syracuse-mistrust.014-1024x576.jpg)  |
+| :----------------------------------------------------------: |
+| ([Source](http://www.people-press.org/2014/11/13/public-trust-in-government/)) |
 
