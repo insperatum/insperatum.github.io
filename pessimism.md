@@ -27,7 +27,13 @@ title: Some reasons to feel pessimistic
 
 ## Nobody trusts the government
 
-| ![img](pessimism.assets/syracuse-mistrust.014-1024x576.jpg)  |
+| ![img](pessimism.assets/syracuse-mistrust.014-1024x576.jpg)  | ![image-20190104110154757](pessimism.assets/image-20190104110154757-6617714.png) | ![image-20190112194834581](pessimism.assets/image-20190112194834581-7340514.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ([source](http://www.people-press.org/2014/11/13/public-trust-in-government/)) | ([source](https://www.huffingtonpost.com/entry/historical-polls-2018-20th-century-america_us_5c2a47aae4b05c88b7029f37?ks4)) | ([source](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/public-opinion-on-ai-governance.html#americans-who-are-younger-who-have-cs-or-engineering-degrees-express-less-concern-about-ai-governance-challenges)) But they trust tech companies more... |
+
+## CS students think AI governance is not very important
+
+| ![image-20190112195103545](pessimism.assets/image-20190112195103545-7340663.png) |
 | :----------------------------------------------------------: |
-| ([Source](http://www.people-press.org/2014/11/13/public-trust-in-government/)) |
+| ([source](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/public-opinion-on-ai-governance.html#americans-who-are-younger-who-have-cs-or-engineering-degrees-express-less-concern-about-ai-governance-challenges)) |
 
